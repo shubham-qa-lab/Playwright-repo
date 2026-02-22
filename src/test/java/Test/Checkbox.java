@@ -23,7 +23,7 @@ public class Checkbox {
 		isCheckbox.check();
 		assertThat(isCheckbox).isChecked();
 		
-		playwright.close();
+		//playwright.close();
 
 	}
 
